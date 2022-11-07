@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+
+:root {
+    --width-navbar: 250px;
+    --height-navbar-top: 50px;
+    --color-white: #fff;
+    --grey-primary: #C0C2C4;
+}
+
+.root{
+    background: var(--grey-primary);
+}

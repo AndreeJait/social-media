@@ -1,10 +1,13 @@
-.root {
+.wrapperContent {
     display: flex;
 }
 
 .navbar {
-
+    width: var(--width-navbar);
+    height: calc(100vh - var(--height-navbar-top));
 }
-.content {
 
+.content {
+    width: calc(100vh - var(--width-navbar));
+    height: calc(100vh - var(--height-navbar-top));
 }

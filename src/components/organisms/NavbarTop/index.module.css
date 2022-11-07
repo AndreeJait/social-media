@@ -1,0 +1,6 @@
+.navbarTop{
+    width: 100%;
+    height: var(--height-navbar-top);
+    background-color: var(--color-white);
+
+}
