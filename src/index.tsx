@@ -11,6 +11,7 @@ import {Profile} from "./containers/pages/Profile";
 import {Friend} from "./containers/pages/Friend";
 import {Login} from "./containers/pages/Login";
 import {Register} from "./containers/pages/Register";
+import  "./plugins";
 
 const root = ReactDOM.createRoot(
     document.getElementById('root') as HTMLElement
